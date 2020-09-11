@@ -143,6 +143,106 @@ module.exports = {
                 },
             ],
         },
+        {
+            title: 'Tools',
+            id: 'tool',
+            version: 1,
+            shortcuts: [
+                {
+                    title: 'Artboard tool',
+                    keys: ['Shift','o'],
+                },
+                {
+                    title: 'Selection tool',
+                    keys: ['v'],
+                },
+                {
+                    title: 'Direct Selection tool',
+                    keys: ['a'],
+                },
+                {
+                    title: 'Magic Wand tool',
+                    keys: ['y'],
+                },
+                {
+                    title: 'Lasso tool',
+                    keys: ['q'],
+                },
+                {
+                    title: 'Pen tool',
+                    keys: ['p'],
+                },
+                // Check tilde symbol
+                // {
+                //     title: 'Curvature tool',
+                //     keys: ['Shift','\~'],
+                // },
+                {
+                    title: 'Blob Brush tool',
+                    keys: ['Shift','b'],
+                },
+                {
+                    title: 'Add Anchor Point tool',
+                    keys: ['+'],
+                },
+                {
+                    title: 'Delete Anchor Point tool',
+                    keys: ['-'],
+                },
+                {
+                    title: 'Switch to Anchor Point tool',
+                    keys: ['Shift','c'],
+                },
+                {
+                    title: 'Type tool',
+                    keys: ['t'],
+                },
+                {
+                    title: 'Touch Type tool',
+                    keys: ['Shift','t'],
+                },
+                {
+                    title: 'Line Segment tool',
+                    keys: ['\\'],
+                },
+                {
+                    title: 'Rectangle tool',
+                    keys: ['m'],
+                },
+                {
+                    title: 'Ellipse tool',
+                    keys: ['l'],
+                },
+                {
+                    title: 'Paintbrush tool',
+                    keys: ['b'],
+                },
+                {
+                    title: 'Pencil tool',
+                    keys: ['n'],
+                },
+                {
+                    title: 'Shaper tool',
+                    keys: ['Shift','n'],
+                },
+                {
+                    title: 'Rotate tool',
+                    keys: ['r'],
+                },
+                {
+                    title: 'Reflect tool',
+                    keys: ['o'],
+                },
+                {
+                    title: 'Scale tool',
+                    keys: ['s'],
+                },
+                {
+                    title: 'Warp tool',
+                    keys: ['Shift','r'],
+                },
+            ],
+        },
     ],
 
 }
