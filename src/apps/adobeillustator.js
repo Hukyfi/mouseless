@@ -121,6 +121,26 @@ module.exports = {
                     title: 'Save the document as script files',
                     keys: ['Meta','F12']
                 },
+                {
+                    title: 'Open Export for screens dialog box',
+                    keys: ['Alt','Meta','e'],
+                },
+                {
+                    title: 'Open the Save for web dialog box',
+                    keys: ['Alt','Shift','Meta','s'],
+                },
+                {
+                    title: 'Package the document',
+                    keys: ['Alt','Shift','Meta','p'],
+                },
+                {
+                    title: 'Print',
+                    keys: ['Meta','p'],
+                },
+                {
+                    title: 'Exit Illustrator',
+                    keys: ['Meta','q'],
+                },
             ],
         },
     ],
