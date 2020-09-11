@@ -16,7 +16,7 @@ module.exports = {
                 },
                 {
                     title: 'Redo',
-                    keys: ['Meta','Shift','z'],
+                    keys: ['Shift','Meta','z'],
                 },
                 {
                     title: 'Cut',
@@ -37,6 +37,30 @@ module.exports = {
                 {
                     title: 'Paste at back',
                     keys: ['Meta','b'],
+                },
+                {
+                    title: 'Paste in place',
+                    keys: ['Shift','Meta','b'],
+                },
+                {
+                    title: 'Paste on all artboards',
+                    keys: ['Alt','Shift','Meta','b'],
+                },
+                {
+                    title: 'Check spelling',
+                    keys: ['Meta','i'],
+                },
+                {
+                    title: 'Open the Color Settings dialog box',
+                    keys: ['Shift','Meta','k'],
+                },
+                {
+                    title: 'Open the Keyboard Shortcuts dialog box',
+                    keys: ['Alt','Shift','Meta','k'],
+                },
+                {
+                    title: 'Open the Preferences dialog box',
+                    keys: ['Meta','k'],
                 },
             ],
         },
