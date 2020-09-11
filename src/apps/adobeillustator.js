@@ -64,6 +64,65 @@ module.exports = {
                 },
             ],
         },
+        {
+            title: 'Documents',
+            id: 'documents',
+            version: 1,
+            shortcuts: [
+                {
+                    title: 'Create a document',
+                    keys: ['Meta','n'],
+                },
+                {
+                    title: 'Create a document from a template',
+                    keys: ['Shift','Meta','n'],
+                },
+                {
+                    title: 'Create a document without opening the New Document dialog box',
+                    keys: ['Alt','Meta','n'],
+                },
+                {
+                    title: 'Open a document',
+                    keys: ['Meta','o'],
+                },
+                {
+                    title: 'Place a file in the document',
+                    keys: ['Shift','Meta','p'],
+                },
+                {
+                    title: 'Open the File Information dialog box',
+                    keys: ['Alt','Shift','Meta','i'],
+                },
+                {
+                    title: 'Open the Document Setup dialog box',
+                    keys: ['Alt','Meta','p'],
+                },
+                {
+                    title: 'Browse in Adobe Bridge',
+                    keys: ['Alt','Meta','o'],
+                },
+                {
+                    title: 'Close the document window',
+                    keys: ['Meta','w'],
+                },
+                {
+                    title: 'Save changes made to document',
+                    keys: ['Meta','s'],
+                },
+                {
+                    title: 'Open Save As dialog box',
+                    keys: ['Shift','Meta','s'],
+                },
+                {
+                    title: 'Save a copy of the document',
+                    keys: ['Alt','Meta','s'],
+                },
+                {
+                    title: 'Save the document as script files',
+                    keys: ['Meta','F12']
+                },
+            ],
+        },
     ],
 
 }
