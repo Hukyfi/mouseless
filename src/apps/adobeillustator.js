@@ -241,6 +241,82 @@ module.exports = {
                     title: 'Warp tool',
                     keys: ['Shift','r'],
                 },
+                {
+                    title: 'Width tool',
+                    keys: ['Shift','w'],
+                },
+                {
+                    title: 'Free Transform tool',
+                    keys: ['e'],
+                },
+                {
+                    title: 'Shape Builder tool',
+                    keys: ['Shift','m'],
+                },
+                {
+                    title: 'Perpective Grid tool',
+                    keys: ['Shift','p'],
+                },
+                {
+                    title: 'Perspective Selection tool',
+                    keys: ['Shift','v'],
+                },
+                {
+                    title: 'Symbol Sprayer tool',
+                    keys: ['Shift','s'],
+                },
+                {
+                    title: 'Column Graph tool',
+                    keys: ['j'],
+                },
+                {
+                    title: 'Mesh tool',
+                    keys: ['u'],
+                },
+                {
+                    title: 'Gradient tool',
+                    keys: ['g'],
+                },
+                {
+                    title: 'Eyedropper tool',
+                    keys: ['i'],
+                },
+                {
+                    title: 'Blend tool',
+                    keys: ['w'],
+                },
+                {
+                    title: 'Live Paint Bucket tool',
+                    keys: ['k'],
+                },
+                {
+                    title: 'Live Paint Selection tool',
+                    keys: ['Shift','l'],
+                },
+                {
+                    title: 'Slice tool',
+                    keys: ['Shift','k'],
+                },
+                {
+                    title: 'Eraser tool',
+                    keys: ['Shift','e'],
+                },
+                {
+                    title: 'Scissors tool',
+                    keys: ['c'],
+                },
+                {
+                    title: 'Hand tool',
+                    keys: ['h'],
+                },
+                {
+                    title: 'Zoom tool',
+                    keys: ['z'],
+                },
+                {
+                    title: 'Switch to Smooth tool while using Blob Brush tool',
+                    keys: ['Alt'],
+                },
             ],
         },
     ],
