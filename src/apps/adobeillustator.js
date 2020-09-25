@@ -319,6 +319,33 @@ module.exports = {
                 },
             ],
         },
+        {
+            title: 'View Artwork',
+            id: 'view',
+            version: 1,
+            shortcuts: [
+                {
+                    title: 'Toggle between screen modes',
+                    keys: ['F'],
+                },
+                {
+                    title: 'Magnify 100%',
+                    keys: ['Meta','1'],
+                },
+                {
+                    title: 'Pan',
+                    keys: ['Space'],
+                },
+                {
+                    title: 'Switch to Zoom tool in magnify mode',
+                    keys: ['Space','Meta'],
+                },
+                {
+                    title: 'Switch to Zoom tool in reduce mode',
+                    keys: ['Space','Meta','Alt'],
+                },
+            ],
+        },
     ],
 
 }
